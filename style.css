@@ -564,6 +564,7 @@ button.copy-btn:hover {
 }
 
 .btn-cta {
+  border: none;
   cursor: pointer;
 }
 
