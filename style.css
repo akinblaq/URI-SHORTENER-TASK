@@ -185,7 +185,7 @@ nav {
   }
 
   .log-img {
-    margin-left: 0.5rem;
+    margin-left: 1rem;
   }
 }
 
@@ -417,18 +417,23 @@ button.copy-btn:hover {
 
   .original-link {
     margin: 1rem 0 0 0;
-    padding-top: 1rem;
+    padding-top: 1.5rem;
+  }
+
+  .short-link {
+    padding-top: 1.5rem;
   }
 
   .shorten-result-box {
     display: flex;
     margin: 0 1rem;
+    height: 90px;
   }
 
   button.copy-btn {
     padding: 0.8rem 2rem;
     white-space: nowrap;
-    margin-top: 1rem;
+    margin: 16px 16px 16px 16px;
   }
 }
 /* ========================================== */
